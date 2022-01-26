@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gearx09
+- 👋 Hi, I’m @GearX007 
 - 👀 I’m interested in ...Ethical Hacking 
 - 🌱 I’m currently learning ...Network and CCNA training 
 - 💞️ I’m looking to collaborate on ...
